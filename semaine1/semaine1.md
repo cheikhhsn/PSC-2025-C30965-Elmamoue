@@ -106,4 +106,3 @@ Les fonctions de vérification de type aident à écrire du code robuste :
 python
 type(x)
 isinstance(x, list)
-
